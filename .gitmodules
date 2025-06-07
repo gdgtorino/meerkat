@@ -1,0 +1,6 @@
+[submodule "meerkat-be"]
+	path = meerkat-be
+	url = https://github.com/gdgtorino/meerkat-be
+[submodule "meerkat-fe"]
+	path = meerkat-fe
+	url = https://github.com/gdgtorino/meerkat-fe
